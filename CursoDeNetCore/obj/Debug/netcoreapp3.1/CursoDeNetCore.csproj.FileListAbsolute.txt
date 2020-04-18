@@ -1,0 +1,13 @@
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\bin\Debug\netcoreapp3.1\CursoDeNetCore.exe
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\bin\Debug\netcoreapp3.1\CursoDeNetCore.deps.json
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\bin\Debug\netcoreapp3.1\CursoDeNetCore.runtimeconfig.json
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\bin\Debug\netcoreapp3.1\CursoDeNetCore.runtimeconfig.dev.json
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\bin\Debug\netcoreapp3.1\CursoDeNetCore.dll
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\bin\Debug\netcoreapp3.1\CursoDeNetCore.pdb
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.csprojAssemblyReference.cache
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.AssemblyInfoInputs.cache
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.AssemblyInfo.cs
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.dll
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.pdb
+C:\Users\Oskar\Documents\GitHub\Udemy\C# desde 0\CursoDeNetCore\CursoDeNetCore\obj\Debug\netcoreapp3.1\CursoDeNetCore.genruntimeconfig.cache
